@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i am malvis. After having a BCOM HONOURS in FINANCE and taking time off for family, i am finally ready to jump back into the job pool. Because of all the time i have been out of i work, i knew i needed to reinvent myself so as to be appealing to potential employers. with that in mind, i started researching how to do that and that is how I found data analysis. coming from a finance background, I was already comfortable with numbers. I then proceeded to take the google data analytics certification on coursera which i really enjoyed. i am currently taking the datacamp data analysis certification track. this portfolio will serve as way to showcase projects i work on and monitor my growth.
 
 <!--
 **mbkimbung/mbkimbung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
